@@ -1,0 +1,14 @@
+ENTITY/YZ1,r1,edge(100)
+
+L10:
+	ident/'kkkkkk',YZ1,resp
+
+
+
+l30:
+       r1=point/70,0,0
+       blend/YZ1,radius,5,r1
+       
+
+
+halt

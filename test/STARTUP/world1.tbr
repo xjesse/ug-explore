@@ -1,0 +1,18 @@
+TITLE ÂÝÄ¸
+VERSION 170
+BUTTON lm1
+LABEL Áù½ÇÂÝÄ¸
+BITMAP 1dl.bmp
+ACTION 1dl.grx
+SEPARATOR
+
+BUTTON lm2
+LABEL Áù½ÇËø½ôÂÝÄ¸
+BITMAP 1d2.bmp
+ACTION 1d2.grx
+SEPARATOR
+
+BUTTON lm3
+LABEL  Ô²ÂÝÄ¸
+BITMAP 1d3.bmp
+ACTION 1d3.grx

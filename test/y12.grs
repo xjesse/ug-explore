@@ -1,0 +1,8 @@
+ENTITY/p(4),spln(2)
+p(1)=POINT/-1,0
+p(2)=POINT/0,0
+p(3)=POINT/1,0.866
+p(4)=POINT/2,0.75
+spln(1)=SPLINE/p
+spln(2)=SPLINE/p
+HALT

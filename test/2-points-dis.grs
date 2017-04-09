@@ -1,0 +1,14 @@
+$$子程序的哑元表
+proc/pt1,pt2,dis
+$$变量声明
+entity/pt1,pt2
+number/a(3),b(3),dis
+$$计算两点间的距离
+l10:
+a=&point(pt1)
+b=&point(pt2)
+dis=sqrtf((a(1)-b(1))*(a(1)-b(1))+(a(2)-b(2))*(a(2)-b(2))$
++(a(3)-b(3))*(a(3)-b(3)))
+$$返回主程序
+trm:
+return
